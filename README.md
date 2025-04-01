@@ -1,4 +1,3 @@
-Here's an enhanced version of your repository description:  
 
 ---
 
@@ -32,4 +31,3 @@ Welcome to the **Java Practice Problems & Solutions** repository! 🎯 This coll
 
 ---
 
-This version makes the repository description more engaging and informative! 🚀 Let me know if you want any refinements. 😊
