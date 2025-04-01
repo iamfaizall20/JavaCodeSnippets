@@ -1,6 +1,3 @@
-
----
-
 # **Java Practice Problems & Solutions** 🚀  
 
 Welcome to the **Java Practice Problems & Solutions** repository! 🎯 This collection features a wide range of Java coding problems, categorized by difficulty:  
